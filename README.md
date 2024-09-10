@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**itisrude/itisrude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+const AboutMe = {
+    identity: {
+        firstName: "Rudra",
+        lastName: "Patel",
+    },
+    professionalPath: {
+        currentRole: 'Founder & Project Manager of Rudescore',
+        previousRole: 'Project Manager at RutrTunes',
+    },
+    activeProjects: 'Developing Rudescore (Multipurpose Discord Bot)',
+    skillBuilding: 'Enhancing expertise in building scalable bots with TypeScript, React, and Prisma PostgreSQL',
+    contactDetails: {
+        githubProfile: '[https://github.com/rudrapatel](https://github.com/itisrude)',
+        email: '[Email](mailto:patelrudra860@gmail.com)',
+    }
+}
+```

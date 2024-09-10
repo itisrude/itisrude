@@ -11,8 +11,8 @@ const AboutMe = {
     activeProjects: 'Developing Rudescore (Multipurpose Discord Bot)',
     skillBuilding: 'Enhancing expertise in building scalable bots with TypeScript, React, and Prisma PostgreSQL',
     contactDetails: {
-        githubProfile: '[https://github.com/rudrapatel](https://github.com/itisrude)',
-        email: '[Email](mailto:patelrudra860@gmail.com)',
+        githubProfile: 'https://github.com/itisrude',
+        email: 'patelrudra860@gmail.com)',         
     }
 }
 ```

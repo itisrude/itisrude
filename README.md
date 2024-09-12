@@ -42,6 +42,4 @@ const AboutMe = {
 
 [![](https://visitcount.itsvg.in/api?id=itisrude&icon=6&color=12)](https://visitcount.itsvg.in)
 
-## You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/rutrruns?country.x=US&locale.x=en_US) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/itisrude) 
 

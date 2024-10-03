@@ -35,11 +35,12 @@ const AboutMe = {
 ## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=itisrude&theme=dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=itisrude&theme=dark&hide_border=true)
+![SnakeContributions](https://github.com/itisrude/itisrude/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itisrude&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=itisrude&icon=6&color=12)](https://visitcount.itsvg.in)
-
 
